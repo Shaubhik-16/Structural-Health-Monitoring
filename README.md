@@ -1,0 +1,1 @@
+This project provides an energy efficient method for structural Health Monitoring by determining natural frequency of a structure. This uses microcontrollers ATTiny85 and Arduino-Uno and ADXL345 accelerometer for the same. 
